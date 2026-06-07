@@ -11,7 +11,7 @@ int seg7 [6] [7] = {
     {0,0,0,0,0,0,1}, //-
 };
 
-int boton = 10;
+int boton = 13;
 int t_previo3 = 0, t_delay3 = 1000;
 int t_previo2 = 0, t_delay2 = 500;
 int t_previo = 0, t_delay = 10000;
